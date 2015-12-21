@@ -7,6 +7,7 @@ The SW have been developed based on Arduino UNO board (Atmega328 MCU) with few s
 There are few open source HW board available supporting the SW either designed as  shield on top of Arduino Board or stand alone board (all in one board)
 
 In the repository you can find my personal design of a board based on Arduino NANO V3 version with few additional features (not all supported by current SW version)
+
 •	2 x DB18B20 temp probe
 •	2 x 12v SSR/Relay out
 •	2 x 12V power out (3A) 
@@ -16,6 +17,7 @@ The mapping of pinout is completely compatible with all other version (1 x DS18B
 The 12V power output can drive directly small pump (like solar project) and/or solenoid valve
 
 The board has been designed in a very compact size to be mounted front panel
+
 •	double side PCB
 •	Trough Hole Component
 •	No SMD
