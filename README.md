@@ -1,4 +1,4 @@
-# Open-ArdBir-NANO-
+# Open-ArdBir-NANO
 Repository for HW design file (PCB, schematic)  of ArdBir board based on arduino NANO version
 
 Open Ardbir is an open source SW (up to release 2.8.3) to control and automate beer brewing process
