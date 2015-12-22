@@ -27,12 +27,16 @@ The board has been designed in a very compact size to be mounted front panel
 
 •	No SMD
 
-Two version of PCB are available depending on the LCD mounting
 
+Two version of PCB are available depending on the LCD mounting
 
 •	LCD solder side: the LCD is mounted on the copper side leaving the components accessible
 
+![Alt text](https://github.com/arzaman/Open-ArdBir-NANO/blob/master/LCD-solder-side/ArdBir%20NANO%20LCD%20solder%20side%20-%20front.png)
+
 •	LCD on component side : LCD is mounted on the same side of components 
+
+![Alt text](https://github.com/arzaman/Open-ArdBir-NANO/blob/master/LCD-component-side/ArdBir%20NANO%20LCD%20component%20side%20-%20front.PNG)
 
 
 In the repository you can find two folders, one for each version, containing PCB and schematic in eagle forma and BoM
