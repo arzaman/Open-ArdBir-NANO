@@ -6,6 +6,8 @@ The SW have been developed based on Arduino UNO board (Atmega328 MCU) with few s
 
 There are few open source HW board available supporting the SW either designed as  shield on top of Arduino Board or stand alone board (all in one board)
 
+![Alt text](https://github.com/arzaman/Open-ArdBir-NANO/blob/master/ArdBir%20NANO.png)
+
 In the repository you can find my personal design of a board based on Arduino NANO V3 version with few additional features (not all supported by current SW version)
 
 •	2 x DB18B20 temp probe
