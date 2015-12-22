@@ -41,4 +41,6 @@ Two version of PCB are available depending on the LCD mounting
 
 In the repository you can find two folders, one for each version, containing PCB and schematic in eagle forma and BoM
 
+![Alt text] (https://github.com/arzaman/Open-ArdBir-NANO/blob/master/LCD-solder-side/ArdBir%20NANO%20schematic.png)
+
 Enjoy and feel free to modify/fork the project
