@@ -1,0 +1,59 @@
+Partlist
+
+Exported from Schematico.sch at 11/12/2015 08:53
+
+EAGLE Version 7.3.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part      Value                         Device                        Package         Library                    Sheet
+
+12V       MKDSN1,5/2-5,08               MKDSN1,5/2-5,08               MKDSN1,5/2-5,08 con-phoenix-508            1
+BTN       MKDSN1,5/3-5,08               MKDSN1,5/3-5,08               MKDSN1,5/3-5,08 con-phoenix-508            1
+BTN2      MKDSN1,5/2-5,08               MKDSN1,5/2-5,08               MKDSN1,5/2-5,08 con-phoenix-508            1
+C12       100n                          C-EU050-024X044               C050-024X044    rcl                        1
+C13       100u                          CPOL-EUTT6D6                  TT5D6           rcl                        1
+D1        1N4004                        1N4004                        DO41-10         diode                      1
+D2        1N4004                        1N4004                        DO41-10         diode                      1
+D3        1N4004                        1N4004                        DO41-10         diode                      1
+D4        1N4004                        1N4004                        DO41-10         diode                      1
+D5        1N4004                        1N4004                        DO41-10         diode                      1
+DS18B20_1 MKDSN1,5_3-5,08               MKDSN1,5_3-5,08               MKDSN1,5-3-5,08 con-phoenix-508            1
+DS18B20_2 MKDSN1,5_3-5,08               MKDSN1,5_3-5,08               MKDSN1,5-3-5,08 con-phoenix-508            1
+HT_1      MKDSN1,5_2-5,08               MKDSN1,5_2-5,08               MKDSN1,5-2-5,08 con-phoenix-508            1
+HT_2      MKDSN1,5/2-5,08               MKDSN1,5/2-5,08               MKDSN1,5/2-5,08 con-phoenix-508            1
+LED_HT1   MKDSN1,5/2-5,08               MKDSN1,5/2-5,08               MKDSN1,5/2-5,08 con-phoenix-508            1
+LED_HT2   MKDSN1,5/2-5,08               MKDSN1,5/2-5,08               MKDSN1,5/2-5,08 con-phoenix-508            1
+LED_PMP1  MKDSN1,5/2-5,08               MKDSN1,5/2-5,08               MKDSN1,5/2-5,08 con-phoenix-508            1
+LED_PMP2  MKDSN1,5/2-5,08               MKDSN1,5/2-5,08               MKDSN1,5/2-5,08 con-phoenix-508            1
+PCB1      ARDUINO_NANO                  ARDUINO_NANO                  ARDUINO_NANO    E14_Arduino_revB           1
+PMP1      MKDSN1,5_2-5,08               MKDSN1,5_2-5,08               MKDSN1,5-2-5,08 con-phoenix-508            1
+PMP2      MKDSN1,5_2-5,08               MKDSN1,5_2-5,08               MKDSN1,5-2-5,08 con-phoenix-508            1
+Q1        IRF530                        IRF530                        TO220BV         transistor-power           1
+Q2        IRF530                        IRF530                        TO220BV         transistor-power           1
+R1        10k                           R-US_0207/10                  0207/10         resistor                   1
+R3        470k                          R-US_0207/10                  0207/10         resistor                   1
+R4        1k                            R-US_0207/10                  0207/10         resistor                   1
+R5        1k                            R-US_0207/10                  0207/10         resistor                   1
+R6        1k                            R-US_0207/10                  0207/10         resistor                   1
+R7        470k                          R-US_0207/10                  0207/10         resistor                   1
+R8        10K                           R-US_0207/10                  0207/10         resistor                   1
+R9        1k                            R-US_0207/10                  0207/10         resistor                   1
+R11       470k                          R-US_0207/10                  0207/10         resistor                   1
+R12       470                           R-US_0207/10                  0207/10         resistor                   1
+R13       10k                           R-US_0207/10                  0207/10         resistor                   1
+R14       10K                           R-US_0207/10                  0207/10         resistor                   1
+R15       10K                           R-US_0207/10                  0207/10         resistor                   1
+R16       10K                           R-US_0207/10                  0207/10         resistor                   1
+R17       1k                            R-US_0207/10                  0207/10         resistor                   1
+R18       470k                          R-US_0207/10                  0207/10         resistor                   1
+R19       1k                            R-US_0207/10                  0207/10         resistor                   1
+R20       1k                            R-US_0207/10                  0207/10         resistor                   1
+R25       470k                          R-US_0207/10                  0207/10         resistor                   1
+R26       10k                           TRIMPOT3362U-2                3362U-2         SparkFun-Electromechanical 1
+SG4       F/QMBIII                      F/QMBIII                      F/QMBIII        buzzer                     1
+T1        BC337                         BC337                         TO92            transistor-neu-to92        1
+T2        BC337                         BC337                         TO92            transistor-neu-to92        1
+T5        BC337                         BC337                         TO92            transistor-neu-to92        1
+TP1       PTR1PAD1-20                   PTR1PAD1-20                   P1-20           testpad                    1
+U$1       LCD-HD447804-HOLES20X4-4HOLES LCD-HD447804-HOLES20X4-4HOLES LCD-20X4-4HOLES HD44780LCD                 1
